@@ -5,7 +5,7 @@
 
 # 👋 Hello! Welcome to my Github profile.
 
-My name is Mateus Marques Montagnoli! I'm a student at São Paulo State University, currently completing four years of study in computer science. 
+My name is Mateus Marques Montagnoli! I have a bachelor's degree in Computer Science at São Paulo State University.
 
 
 ## Like to work with
